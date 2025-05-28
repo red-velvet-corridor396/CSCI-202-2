@@ -1,0 +1,42 @@
+[
+    {
+        "genre": "Punk",
+        "desc": "desc"
+    },
+    {
+        "genre": "Heavy Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "Doom Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "NWOBHM",
+        "desc": "desc"
+    },
+    {
+        "genre": "Speed Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "1st wave Black Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "Thrash Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "Black Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "Death Metal",
+        "desc": "desc"
+    },
+    {
+        "genre": "Grindcore",
+        "desc": "desc"
+    }
+]
