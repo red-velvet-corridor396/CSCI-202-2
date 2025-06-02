@@ -66,6 +66,13 @@ nav a img:hover {
     translate: 0px -10px;
 }
 
+#shack {
+    height: 100%;
+    position: relative;
+    bottom: 26px;
+    right: -512px;
+}
+
 #devourment {
     /* Prevents image from being massive */
     max-height: 3em;
