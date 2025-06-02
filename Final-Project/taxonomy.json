@@ -5,23 +5,23 @@
     },
     {
         "genre": "Heavy Metal",
-        "desc": "desc"
+        "desc": "Heavy metal is both a subgenre and the umbrella that every other metal genre falls under. The term was coined to describe all metal music, but as more subgenres have developed, the term has been applied retroactively to all music that is in the same style as that first wave of metal bands. Heavy metal is an outgrowth of hard rock that features the same power chord riffs, but is heavier, faster, and usually focuses on darker subject matter. Notable heavy metal acts include Black Sabbath, Rainbow, Dio, Deep Purple, and Mercyful Fate."
     },
     {
         "genre": "Doom Metal",
-        "desc": "This particularly atmospheric subgenre is considered the first metal subgenre, as it can be traced back directly to Black Sabbath, who is widely considered to be the first heavy metal band. Doom Metal features slow tempos, thick guitar distortion, and an ominous or dreadful atmosphere. Doom Metal songs also tend to be quite long, frequently reaching 10 minutes or more. Some notable Doom Metal bands are Black Sabbath, Pentagram, Saint Vitus, Trouble, Candlemass, and Witchfinder General."
+        "desc": "This particularly atmospheric subgenre is considered the oldest metal subgenre, as it can be traced back directly to Black Sabbath, who is widely considered to be the first heavy metal band as well as the first doom metal band. Doom Metal features slow tempos, thick guitar distortion, and an ominous or dreadful atmosphere. Doom Metal songs also tend to be quite long, frequently reaching 10 minutes or more. Some notable Doom Metal bands are Black Sabbath, Pentagram, Saint Vitus, Trouble, Candlemass, and Witchfinder General."
     },
     {
         "genre": "NWOBHM",
-        "desc": "desc"
+        "desc": "'NWOBHM' stands for 'New Wave of British Heavy Metal.' NWOBHM is associated less with a particular sound than with a particular time, place, and set of bands. It essentially just describes those British heavy metal bands that sprung up as the popularity of bands like Black Sabbath started to wane. Notable NWOBHM bands include Iron Maiden, Saxon, Venom, Witchfinder General, and Def Leppard."
     },
     {
         "genre": "Speed Metal",
-        "desc": "desc"
+        "desc": "Speed Metal is harder to define; it shares a lot of similiarities with heavy metal and NWOBHM, and it was also short lived and quickly overtaken by thrash metal. Speed Metal is heavy metal that is--you guessed it--faster and more aggressive. Some Speed Metal acts also vie for a rawer, more punk-like sound (e.g. bands like Venom). Motorhead is perhaps the most agreed upon example of Speed Metal, but bands like Venom, Running Wild, Exciter, and Enforcer are also considered Speed Metal. While Speed Metal was short-lived, it has found new life in modern bands like Hellripper and Bewitcher."
     },
     {
         "genre": "1st wave Black Metal",
-        "desc": "desc"
+        "desc": "First wave black metal is a looser term used to describe a handful of heavy/speed/thrash metal bands that were particularly dark or raw sounding and that influenced the Norwegian black metal scene of the 1990s (and this scene is what established the standard black metal sound). The reign of the first wave of black metal was a time in which genres weren't so clearly defined, so a lot of thrash metal bands' early work was also considered black metal at the time. Notable 1st wave black metal bands include Venom, Bathory, Hellhammer, Celtic Frost, Mercyful Fate, early Sodom/Kreator/Desctruction/Slayer/Sepultura, Sacrofago, and Blasphemy. The genre takes its name from Venom's second album, titled 'Black Metal.'"
     },
     {
         "genre": "Thrash Metal",
@@ -29,11 +29,11 @@
     },
     {
         "genre": "Black Metal",
-        "desc": "desc"
+        "desc": "Black Metal found its footing in Norway in the early 90s. A handful of bands from the country took inspiration from first wave bands like Venom, Bathory, Celtic Frost, Mercyful fate, etc and developed their own sound: trebly, lo-fi tremolo-picked riffs with double bass drumming (and/or blast beats) and shrieking vocals. Black metal lyrics/imagery usually focuses on darkness, satanism, paganism, and the occult. Notable black metal bands include Darkthrone, Emperor, Immortal, Burzum, Mayhem, and Gorgoroth."
     },
     {
         "genre": "Death Metal",
-        "desc": "desc"
+        "desc": "Death Metal is easy to think of as a "
     },
     {
         "genre": "Grindcore",

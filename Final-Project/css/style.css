@@ -267,3 +267,56 @@ p {
     margin-top: 1em;
     height: 2.5em;
 }
+
+/* CD SHELF CSS */
+
+#infoBox {
+    display: flex;
+    /* box-shadow: 5px 10px 5px rgb(108, 107, 107); */
+    background-color: rgb(199, 197, 197);
+    color: black;
+}
+
+.cd:hover {
+    filter: brightness(50%);
+}
+
+#infoBox ul {
+    list-style-type: circle;
+}
+
+#commentary {
+    margin-left: 150px;
+}
+
+#info {
+    margin-left: 100px;
+}
+
+#disc {
+    position: relative;
+
+}
+
+#albumcover {
+    position: absolute;
+    z-index: 2;
+}
+
+.spin {
+    animation: spin 1s linear infinite;
+  }
+
+  @keyframes spin {
+    0%   { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+#back {
+    color: white;
+    text-decoration: none;
+}
+
+#back:hover {
+    filter: brightness(80%);
+}
