@@ -24,7 +24,7 @@ h1 {
 }
 
 #subtitle {
-    font-size: 1.5em;
+    /* font-size: 1.5em; */
     display: inline;
 }
 
@@ -75,7 +75,7 @@ nav a img:hover {
 
 #devourment {
     /* Prevents image from being massive */
-    max-height: 3em;
+    max-height: 4em;
     /* Vertically aligns logo with other text */
     position: relative;
     top: 1.2em;
@@ -91,8 +91,8 @@ p {
     margin: 0.5em;
 }
 
-.showtext {
-}
+/* .showtext {
+} */
 
 .img {
     width: 35%;

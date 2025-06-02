@@ -1,7 +1,7 @@
 [
     {
         "genre": "Punk",
-        "desc": "desc"
+        "desc": "Punk rock is a simplistic and aggressive style of rock music which usually features an anti-establishment ethos. Punk has numerous subgenres, including hardcore punk (which is more abrasive, more aggressive, and is known for having short songs), d-beat (hardcore influenced by metal), and crust punk--all of which have influenced metal, been influenced by metal, or both, all to varying degrees. For almost as long as they've existed, punk and metal have had a mutually derivative relationship."
     },
     {
         "genre": "Heavy Metal",
@@ -25,7 +25,7 @@
     },
     {
         "genre": "Thrash Metal",
-        "desc": "desc"
+        "desc": "In the early 80s, many bands were inspired by punk bands like Discharge as well as NWOBHM/speed bands like Motorhead and Venom, and developed a fast, aggressive style of heavy metal dubbed 'thrash metal.' Thrash metal is known for its speed and aggression, featuring fast, double bass drumming and palm muted / technical riffs/solos. The vocals of thrash can vary quite a bit, with some bands like Artillery embracing the same melodic style of bands before (e.g. Iron Maiden) while bands like Slayer or Sodom shouting or almost-growling. Notable thrash bands include Metallica, Megadeth, Anthrax, Slayer, Kreator, Sodom, Destruction, Tankard, Sepultura, Overkill, Exodus, Nuclear Assault, Void, and honestly many more. It's also worth noting the existence of 'crossover thrash,' (the 'crossover' being between punk and thrash metal) which developed in the US East Coast thrash metal scene, where thrash bands took notably more inspiration from punk."
     },
     {
         "genre": "Black Metal",
@@ -33,10 +33,10 @@
     },
     {
         "genre": "Death Metal",
-        "desc": "Death Metal is easy to think of as a "
+        "desc": "Death Metal is easy to think of as having a direct link to thrash metal. Many of the first death metal bands took significant inspiration from thrash metal bands, or they were thrash metal bands themselves (e.g. Possessed). Death metal features the same fast tempos, double bass drumming, and palm muting (and in many cases technicality) of thrash metal, but the guitars are downtuned, given more distortion, and the singing/shouting has been replaced with straight up growling (known by many as 'death growls'). Death metal usually covers subject matter like death (shocker), disease, gore/horror, and satanism. Some significant death metal bands are Possessed, Death, Obituary, Deicide, Morbid Angel, Pestilence, Autopsy, Bolt Thrower, Carcass, Cannibal Corpse, Incantation, Suffocation, Immolation, Dismember, Entombed, Gorguts, Cryptopsy, and many more. "
     },
     {
         "genre": "Grindcore",
-        "desc": "desc"
+        "desc": "Grindcore is a fusion between 'extreme metal,' (in other words, the umbrella that houses subgenres like death metal and thrash metal) and hardcore punk. Grindcore is extremely fast, known for its 'blast beats' and extremely short songs (as short as four seconds!). Vocals tend to be shrieking or growling. Notable grindcore bands include Napalm Death, Terrorizer, Repulsion, Pig Destroyer, Nuclear Death, Insect Warfare, Carcass, and Anal Cunt."
     }
 ]
