@@ -114,7 +114,8 @@
             "genre": ["Death Metal", "Death Doom Metal"],
             "trivia": "Definitely not my favorite Incantation album, but no death metal collection would be complete without this old school classic. I bought this along with CDs from Demigod, Suffocation, Pestilence, and I think a couple others after going down a list of essential death metal releases on my phone in a record store, so that's why I own it. I prefer 'Mortal Throne of Nazarene' by a solid margin, though. I really would like to get that one on CD at some point.",
             "cover": "https://ia802800.us.archive.org/12/items/mbid-b0ec8e17-413c-435a-a45c-f8ad606c6a7f/mbid-b0ec8e17-413c-435a-a45c-f8ad606c6a7f-20819786418_thumb250.jpg",
-            "comment": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748889358/Incantation_ivjpjn.mp3"
+            "comment": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748889358/Incantation_ivjpjn.mp3",
+            "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748994482/Incantation_-_Onward_to_Golgotha_-_07._Christening_the_Afterbirth_edhol4.flac"
         },
         {
             "artist": "Judas Priest",
@@ -250,18 +251,18 @@
             "country": "United States",
             "genre": "Doom Metal",
             "trivia": "",
-            "cover": "",
+            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/trouble.jpg",
             "comment": "",
-            "song": ""
+            "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748992287/Trouble_-_Psalm_9_-_08._Psalm_9_fzxelx.flac"
         },
         {
-            "arist": "",
-            "album": "",
-            "year": ,
-            "country": "",
-            "genre": "",
+            "arist": "Type O Negative",
+            "album": "The Complete Roadrunner Collection",
+            "year": "1991-2003",
+            "country": "United States",
+            "genre": ["Gothic Metal","Doom Metal"],
             "trivia": "",
-            "cover": "",
+            "cover": "https://ia800403.us.archive.org/29/items/mbid-b6df9763-8cf5-4d2f-896f-c109b8a77a59/mbid-b6df9763-8cf5-4d2f-896f-c109b8a77a59-18632227282_thumb250.jpg",
             "comment": "",
             "song": ""
         }
