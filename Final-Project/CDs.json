@@ -209,5 +209,60 @@
             "cover": "https://dn721801.ca.archive.org/0/items/mbid-cc525d5e-b4a5-40c7-9aa0-dfdf41c0b227/mbid-cc525d5e-b4a5-40c7-9aa0-dfdf41c0b227-26369661688_thumb250.jpg",
             "comment": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748889396/Swans_oan2l0.mp3",
             "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748832974/SWANS_-_Soundtracks_For_The_Blind_-_14_The_Sound_eqqz9f.flac"
+        },
+        {
+            "arist": "Incantation",
+            "album": "Mortal Throne of Nazarene",
+            "year": 1994,
+            "country": "United States",
+            "genre": ["Death Doom Metal","Death Metal"],
+            "trivia": "",
+            "cover": "https://ia903103.us.archive.org/33/items/mbid-0935d739-230c-4406-931c-96763b55264a/mbid-0935d739-230c-4406-931c-96763b55264a-24657327921_thumb250.jpg",
+            "comment": "",
+            "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748988542/Incantation_-_Mortal_Throne_of_Nazarene_-_06._The_Ibex_Moon_nwrbs0.flac"
+        },
+        {
+            "arist": "Obscura",
+            "album": "Cosmogenesis",
+            "year": 2009,
+            "country": "Germany",
+            "genre": ["Death Metal","Technical Death Metal"],
+            "trivia": "",
+            "cover": "https://dn721606.ca.archive.org/0/items/mbid-27f006a9-4718-4a5d-b31a-8f7fdcf189ba/mbid-27f006a9-4718-4a5d-b31a-8f7fdcf189ba-31040587686_thumb250.jpg",
+            "comment": "",
+            "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748988867/Obscura_-_Cosmogenesis_-_03._Universe_Momentum_gokafs.flac"
+        },
+        {
+            "arist": "S.O.D.",
+            "album": "Speak English or Die",
+            "year": 1985,
+            "country": "United States",
+            "genre": "Crossover Thrash",
+            "trivia": "",
+            "cover": "https://ia802206.us.archive.org/0/items/mbid-41499113-8b5b-479f-b14a-7e2267c73fba/mbid-41499113-8b5b-479f-b14a-7e2267c73fba-32437698099_thumb250.jpg",
+            "comment": "",
+            "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748991846/Stormtroopers_of_Death_-_Speak_English_or_Die_30th_Anniversary_Edition_-_02._Sargent_D_the_S.O.D._qudu1i.flac"
+        },
+        {
+            "arist": "Trouble",
+            "album": "Psalm 9",
+            "year": 1984,
+            "country": "United States",
+            "genre": "Doom Metal",
+            "trivia": "",
+            "cover": "",
+            "comment": "",
+            "song": ""
+        },
+        {
+            "arist": "",
+            "album": "",
+            "year": ,
+            "country": "",
+            "genre": "",
+            "trivia": "",
+            "cover": "",
+            "comment": "",
+            "song": ""
         }
     ]
