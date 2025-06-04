@@ -1,0 +1,33 @@
+body {
+    /* background-image: url(/images/6182553.jpg); */
+    color: white;
+    background-color: grey;
+}
+
+#wrapper {
+    width: 50%;
+    margin: auto;
+}
+
+h1, h2 {
+    text-shadow: 5px 5px 5px black;
+}
+
+#box {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    border:5px solid white;
+    padding: 10px;
+}
+
+#box ul {
+    list-style: none;
+}
+
+#box ul li a {
+    color: white;
+}
+
+#box ul li a:hover {
+    filter: brightness(50%);
+}
