@@ -93,7 +93,7 @@
             "country": "Japan",
             "genre": "Goregrind",
             "trivia": "While shopping at a record store in Bellingham, I came across a treasure trove of goregrind CDs/tapes. I wouldn't say goregrind is one of my 'main' genres or anything, but according to the checker, the artist who makes the album covers for some of these goregrind releases lives here in Bellingham and recently dropped off a huge box of this stuff at the store. So I've taken it upon myself to collect all these releases for fun. This CD and the goregrind CDs that follow are a part of that effort. As for the actual CD, it's solid. There were a couple tracks I liked, although overall I wasn't blown away or anything. But I listened to a full length album from this band (for the first time) while putting this website together, and I have to say, it was pretty damn good. So I'll be looking forward to adding another CD from this band to my collection, and I'll be anticipating whatever material they release next.",
-            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/festerdecay2.jpg",
+            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Final-Project/images/festerdecay2.jpg",
             "comment": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748889346/Festerdecay_aukjbu.mp3"
         },
         {
@@ -103,7 +103,7 @@
             "country": "China",
             "genre": "Goregrind",
             "trivia": "I haven't listened to this album yet, but the cover looks pretty cool.",
-            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/globularcyst.jpg",
+            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Final-Project/images/globularcyst.jpg",
             "comment": ""
         },
         {
@@ -135,7 +135,7 @@
             "country": "Sweden",
             "genre": ["Goregrind","Deathgrind"],
             "trivia": "I picked this one up because the prospect of a goregrind album coming straight from the Swedish death metal scene at its peak was really interesting to me. When I think of the 90s Swedish scene, I imagine bands like Entombed, Dismember, Gorement, etc. Goregrind doesn't really come to mind at all. I listened to this one with a friend. It was decent--didn't really blow my mind or anything. I honestly think it sounds way more like standard death metal than goregrind. I'm not sure why other people consider it goregrind.",
-            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/necronycover.jpg",
+            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Final-Project/images/necronycover.jpg",
             "comment": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748889370/Necrony_vyjrrp.mp3"
         },
         {
@@ -155,7 +155,7 @@
             "country": ["Japan","United States"],
             "genre": ["Goregrind","Deathgrind","Death Metal"],
             "trivia": "I haven't listened to this yet, but I picked it up cause it was another Pharmacist release. People seem to like Pharmacist (and now that I've heard his other album, I am one of those people), so I decided it was a safe investment at the time.",
-            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/oozingcover.jpg",
+            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Final-Project/images/oozingcover.jpg",
             "comment": ""
         },
         {
@@ -165,7 +165,7 @@
             "country": "Japan",
             "genre": "Goregrind",
             "trivia": "I need to spend more time with this album, too, but it's really solid Carcass worship. I like 'Gastronomic Spoiled Courage.'",
-            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/pharmacist.jpg",
+            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Final-Project/images/pharmacist.jpg",
             "comment": ""
         },
         {
@@ -212,7 +212,7 @@
             "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748832974/SWANS_-_Soundtracks_For_The_Blind_-_14_The_Sound_eqqz9f.flac"
         },
         {
-            "arist": "Incantation",
+            "artist": "Incantation",
             "album": "Mortal Throne of Nazarene",
             "year": 1994,
             "country": "United States",
@@ -223,7 +223,7 @@
             "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748988542/Incantation_-_Mortal_Throne_of_Nazarene_-_06._The_Ibex_Moon_nwrbs0.flac"
         },
         {
-            "arist": "Obscura",
+            "artist": "Obscura",
             "album": "Cosmogenesis",
             "year": 2009,
             "country": "Germany",
@@ -234,7 +234,7 @@
             "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748988867/Obscura_-_Cosmogenesis_-_03._Universe_Momentum_gokafs.flac"
         },
         {
-            "arist": "S.O.D.",
+            "artist": "S.O.D.",
             "album": "Speak English or Die",
             "year": 1985,
             "country": "United States",
@@ -245,18 +245,18 @@
             "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748991846/Stormtroopers_of_Death_-_Speak_English_or_Die_30th_Anniversary_Edition_-_02._Sargent_D_the_S.O.D._qudu1i.flac"
         },
         {
-            "arist": "Trouble",
+            "artist": "Trouble",
             "album": "Psalm 9",
             "year": 1984,
             "country": "United States",
             "genre": "Doom Metal",
             "trivia": "",
-            "cover": "https://red-velvet-corridor396.github.io/CSCI-202-2/Assignment-6/images/trouble.jpg",
+            "cover": "https://ia601509.us.archive.org/6/items/mbid-1e70c210-bed0-3622-800d-2c6a91f3fcc7/mbid-1e70c210-bed0-3622-800d-2c6a91f3fcc7-21285294749_thumb250.jpg",
             "comment": "",
             "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748992287/Trouble_-_Psalm_9_-_08._Psalm_9_fzxelx.flac"
         },
         {
-            "arist": "Type O Negative",
+            "artist": "Type O Negative",
             "album": "The Complete Roadrunner Collection",
             "year": "1991-2003",
             "country": "United States",
@@ -264,6 +264,6 @@
             "trivia": "",
             "cover": "https://ia800403.us.archive.org/29/items/mbid-b6df9763-8cf5-4d2f-896f-c109b8a77a59/mbid-b6df9763-8cf5-4d2f-896f-c109b8a77a59-18632227282_thumb250.jpg",
             "comment": "",
-            "song": ""
+            "song": "https://res.cloudinary.com/dg4hubnxx/video/upload/v1748999166/Type_O_Negative_-_Bloody_Kisses_-_02._Christian_Woman_kv1naj.flac"
         }
     ]
